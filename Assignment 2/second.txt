@@ -1,0 +1,3 @@
+a scalar or a list giving the side of the median filter window in each dimenstion elements
+ should be out if the size
+is the scalar then the scalar is used as the size in each dimension
